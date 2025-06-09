@@ -38,6 +38,11 @@ Plan ahead, buy and upgrade powerful weapons, and defend your base with skill, p
 
 ## 🚀 How to Run (Development Build)
 
+```markdown
 1. Clone the repository:
    ```bash
    git clone https://github.com/MihailJordanov/Tower-Tactics-Triumph.git
+   
+2. Open the project using Unity Hub
+
+3. Press ▶️ Play in the Unity Editor
