@@ -52,10 +52,68 @@ Plan ahead, buy and upgrade powerful weapons, and defend your base with skill, p
 
 ## 📸 Gallery
 
-<p float="left">
-  <img src="docs/Images/Screenshot 2025-06-10 183338.png" width="200" alt="Wave 1"/>
-  <img src="docs/Images/Screenshot 2025-06-10 183506.png" width="200" alt="Wave 2"/>
-  <img src="docs/Images/Screenshot 2025-06-10 183539.png" width="200" alt="Upgrade Menu"/>
-</p>
+<div align="center">
+  <img 
+    src="docs/Images/Screenshot 2025-06-10 183338.png" 
+    alt="Wave 1" 
+    width="500" 
+    style="display:block; margin: 0 auto 20px;" 
+  />
+  <img 
+    src="docs/Images/Screenshot 2025-06-10 183709.png" 
+    alt="Wave 11" 
+    width="500" 
+    style="display:block; margin: 0 auto 20px;" 
+  />
+  <img 
+    src="docs/Images/Screenshot 2025-06-10 183840.png" 
+    alt="Mid Game Wave" 
+    width="500" 
+    style="display:block; margin: 0 auto 20px;" 
+  />
+   <img 
+    src="docs/Images/Screenshot 2025-06-10 183759.png" 
+    alt="Upgrade Moment" 
+    width="500" 
+    style="display:block; margin: 0 auto 20px;" 
+  />
+   <img 
+    src="docs/Images/Screenshot 2025-06-10 184233.png" 
+    alt="Scene View" 
+    width="500" 
+    style="display:block; margin: 0 auto 20px;" 
+  />
+   <img 
+    src="docs/Images/Screenshot 2025-06-10 184245.png" 
+    alt="Win view" 
+    width="500" 
+    style="display:block; margin: 0 auto 20px;" 
+  />
+   <img 
+    src="docs/Images/Screenshot 2025-06-10 184359.png" 
+    alt="Another level view" 
+    width="500" 
+    style="display:block; margin: 0 auto 20px;" 
+  />
+   <img 
+    src="docs/Images/Screenshot 2025-06-10 185108.png" 
+    alt="Another level view mid game" 
+    width="500" 
+    style="display:block; margin: 0 auto 20px;" 
+  />
+   <img 
+    src="docs/Images/Screenshot 2025-06-10 184507.png" 
+    alt="Scene view 2" 
+    width="500" 
+    style="display:block; margin: 0 auto 20px;" 
+  />
+   <img 
+    src="docs/Images/Screenshot 2025-06-10 185204.png" 
+    alt="Paused menu" 
+    width="500" 
+    style="display:block; margin: 0 auto 20px;" 
+  />
+</div>
+
 
 
