@@ -46,11 +46,16 @@ Plan ahead, buy and upgrade powerful weapons, and defend your base with skill, p
 2. Open the project using Unity Hub
 
 3. Press ▶️ Play in the Unity Editor
+```
 
 
-## 📸 Screenshots
 
-![Wave 1]("docs/Images/Screenshot 2025-06-10 183338.png")
-![Wave 2](docs/Images/Screenshot\ 2025-06-10\ 183506.png)
-![Upgrade Menu](docs/Images/Screenshot\ 2025-06-10\ 183539.png)
+## 📸 Gallery
+
+<p float="left">
+  <img src="docs/Images/Screenshot 2025-06-10 183338.png" width="200" alt="Wave 1"/>
+  <img src="docs/Images/Screenshot 2025-06-10 183506.png" width="200" alt="Wave 2"/>
+  <img src="docs/Images/Screenshot 2025-06-10 183539.png" width="200" alt="Upgrade Menu"/>
+</p>
+
 
